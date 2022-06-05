@@ -1,0 +1,15 @@
+
+.pseudocode {
+	width: 800px;
+	height: 436px;
+	font-size: 20px;
+	margin: -246px 0 0 -428px;
+
+	animation-name: pseudocodeanim;
+	animation-duration: 1s;
+	animation-fill-mode: forwards;
+}
+
+@keyframes pseudocodeanim {
+
+}
