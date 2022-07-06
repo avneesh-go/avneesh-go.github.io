@@ -1,2 +1,2 @@
 # avneesh-go.github.io
-Avneesh's GitHub.IO-Hosted Website!
+Avneesh's GitHub.io-Hosted Website!
